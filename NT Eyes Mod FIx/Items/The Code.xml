@@ -1,1 +1,2 @@
 <StatusEffect type="OnActive" target="Character" tags="pressurized" PressureProtection="500.0" setvalue="true" duration="0.1" disabledeltatime="true" />
+Pressurized (10000m)
